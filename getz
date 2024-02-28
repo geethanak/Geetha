@@ -1,0 +1,3 @@
+i=int(input("enter the value:"))
+j=i+i
+print(j)
